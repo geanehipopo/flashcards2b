@@ -1,11 +1,11 @@
 body {
-    background-color: rgb(254, 224, 234);
+    background-color: rgb(210, 137, 203);
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
 footer{
     background-color: black;
-    color:aliceblue;
+    color:rgb(154, 187, 216);
     position: fixed;
     bottom: 0%;
     width: 100%;
@@ -24,7 +24,7 @@ footer p{
 
 .cartao{
     margin: 1rem 1rem;
-    background-color: rgb(253, 171, 183);
+    background-color: rgba(64, 33, 61, 0.294);
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
@@ -37,9 +37,9 @@ height: 100%;
 }
 
 .cartao__conteudo h3{
-    background-color: cadetblue;
+    background-color: rgb(181, 193, 193);
     text-align: left;
-    padding: 0.2rem;
+    padding: 0.5rem;
     position: absolute;
     margin: 0.6rem;
     border-radius: 0.6rem;
