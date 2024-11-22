@@ -5,7 +5,7 @@ body {
 
 footer{
     background-color: black;
-    color:rgb(154, 187, 216);
+    color:rgba(0, 153, 255, 0.192);
     position: fixed;
     bottom: 0%;
     width: 100%;
@@ -24,7 +24,7 @@ footer p{
 
 .cartao{
     margin: 1rem 1rem;
-    background-color: rgba(64, 33, 61, 0.294);
+    background-color: rgba(231, 21, 210, 0.788);
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
